@@ -1,13 +1,33 @@
+html, body {
+    height: 100%;
+}
+
 body {
+    display: flex;
+    flex-direction: column;
     line-height: 1.6em;
     font-family: "Libre Franklin", sans-serif;
-    color: #333;
+    color: var(--dark);
+}
+
+.main-content {
+    flex: 1 0 auto;
+}
+
+footer {
+    flex-shrink: 0;
+    margin-top: 4em;
+    font-size: 0.875rem;
+    padding: 30px 0;
+    border-top: 1px solid #e5e5e5;
+    background: #f5f5f5;
+    color: var(--gray);
 }
 
 
 //////////////////////////////////////////////
 
-// Navbar
+// Navbar (header)
 
 //////////////////////////////////////////////
 
@@ -16,6 +36,7 @@ body {
     padding-bottom: 0;
     
     @media (min-width: 768px) {
+        height: 6.5rem;
         padding: 2rem 2.5rem;
 
         .nav-item + .nav-item {
@@ -38,7 +59,7 @@ body {
 
     .navbar-toggler {
         border-color: transparent;
-        color: #333;
+        color: var(--dark);
     }
 
     .navbar-toggler-icon { 
@@ -52,11 +73,15 @@ body.cars .nav-cars .nav-link,
 body.about .nav-about .nav-link,
 body.mercedes .nav-mercedes .nav-link,
 body.contact .nav-contact .nav-link {
-    color: #333;
+    color: var(--dark);
 }
 
 
+//////////////////////////////////////////////
+
 // Typography
+
+//////////////////////////////////////////////
 
 h1,h2,h3,h4,h5 {
     margin-bottom: 1rem;
@@ -69,7 +94,6 @@ h2 {
 }
 
 .intro {
-    margin-bottom: 2rem;
     padding: 1rem 0;
     
     h1 {
@@ -94,13 +118,6 @@ h2 {
     line-height: 1.75em;
 }
 
-footer {
-    margin-top: 4em;
-    padding: 30px 0;
-    border-top: 1px solid #e5e5e5;
-    background: #f5f5f5;
-    color: #666;
-}
 
 .used-cars {
     width: 100%;
