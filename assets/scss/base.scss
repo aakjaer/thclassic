@@ -3,26 +3,42 @@ html, body {
 }
 
 body {
-    display: flex;
-    flex-direction: column;
     line-height: 1.6em;
     font-family: "Libre Franklin", sans-serif;
     color: var(--dark);
+
+    @media (min-width: 768px) {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.container {
+    @media (max-width: 575px) {
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+    }
 }
 
 .main-content {
-    flex: 1 0 auto;
+    @media (min-width: 768px) {
+        flex: 1 0 auto;
+    }
 }
 
 footer {
-    flex-shrink: 0;
     margin-top: 4em;
     font-size: 0.875rem;
     padding: 30px 0;
     border-top: 1px solid #e5e5e5;
     background: #f5f5f5;
     color: var(--gray);
+    
+    @media (min-width: 768px) {
+        flex-shrink: 0;        
+    }
 }
+
 
 
 //////////////////////////////////////////////
@@ -32,11 +48,13 @@ footer {
 //////////////////////////////////////////////
 
 .navbar {
-    margin: 0 0 4rem;
+    margin: 0 0 2rem;
+    padding-left: 1.5rem;
     padding-bottom: 0;
     
     @media (min-width: 768px) {
         height: 6.5rem;
+        margin-bottom: 3.5rem;
         padding: 2rem 2.5rem;
 
         .nav-item + .nav-item {
@@ -52,10 +70,16 @@ footer {
         }
     }
 
-    .navbar-nav .nav-link {
-        padding: 0.5rem 0;
-        font-weight: 600;
-    }
+    .navbar-nav {
+        @media (max-width: 767px) {            
+            padding-top: 1.5rem;
+        }
+
+        .nav-link {
+            padding: 0.5rem 0;
+            font-weight: 600;
+        }
+    }    
 
     .navbar-toggler {
         border-color: transparent;
@@ -85,8 +109,8 @@ body.contact .nav-contact .nav-link {
 
 h1,h2,h3,h4,h5 {
     margin-bottom: 1rem;
-    font-family: "Libre Baskerville", sans-serif;
-    font-weight: 400;
+    font-weight: 600;
+    letter-spacing: -.015em;
 }
 
 h2 {
@@ -97,9 +121,13 @@ h2 {
     padding: 1rem 0;
     
     h1 {
-        font-size: 2.5rem;
+        font-size: 2rem;
         font-weight: 400;
-        letter-spacing: -.015em;
+        font-family: "Libre Baskerville", sans-serif;
+
+        @media (min-width: 768px) {
+            font-size: 3rem;
+        }
     }
 }
 
@@ -150,14 +178,19 @@ img.pull-right {
     }
 
     .badge {
-        min-width: 3rem;
-        min-height: 3rem;
+        min-width: 2rem;
+        min-height: 2rem;  
         margin-right: 1rem;
+        padding: 0.25rem;
         border-radius: 10rem;
         border: 2px solid #333;
-    }
+        text-align: center;
+        
+        @media (min-width: 768px) {
+            min-width: 3rem;
+            min-height: 3rem;
+        }
 
-    p {
     }
 }
 
