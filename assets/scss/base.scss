@@ -49,6 +49,7 @@ footer {
 
 .navbar {
     margin: 0 0 2rem;
+    padding-left: 1.5rem;
     padding-bottom: 0;
     
     @media (min-width: 768px) {
@@ -70,6 +71,9 @@ footer {
     }
 
     .navbar-nav {
+        @media (max-width: 767px) {            
+            padding-top: 1.5rem;
+        }
 
         .nav-link {
             padding: 0.5rem 0;
@@ -174,14 +178,19 @@ img.pull-right {
     }
 
     .badge {
-        min-width: 3rem;
-        min-height: 3rem;
+        min-width: 2rem;
+        min-height: 2rem;  
         margin-right: 1rem;
+        padding: 0.25rem;
         border-radius: 10rem;
         border: 2px solid #333;
-    }
+        text-align: center;
+        
+        @media (min-width: 768px) {
+            min-width: 3rem;
+            min-height: 3rem;
+        }
 
-    p {
     }
 }
 
