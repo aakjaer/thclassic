@@ -24,6 +24,14 @@ body {
         }
     }
 
+    .navbar-brand img {
+        width: 7rem;
+
+        @media (min-width: 768px) {
+            width: 9rem;
+        }
+    }
+
     .navbar-nav .nav-link {
         padding: 0.5rem 0;
         font-weight: 600;
