@@ -1,15 +1,15 @@
 ---
 title: Jaguar E-Type
-model_details: 4,2 2+2 Coupé aut. 3d 
-km: "62.000"
-price: "349.000"
+model_details: '4,2 2+2 Coupé aut. 3d'
+km: '62.000'
+price: '349.000'
 registration: 12/1969
 model_year: 1969
 images:
   - image_path: /uploads/demo-car/01.jpg
   - image_path: /uploads/demo-car/02.jpg
   - image_path: /uploads/demo-car/03.jpg
-  - image_path: /uploads/demo-car/0a04a560-03dd-403c-90d6-d30549f60f36.jpeg
+  - image_path: /uploads/3b9c486f-aaa0-44b8-8ee7-7f8a5e923444.jpg
 ---
 
 ## Beskrivelse
