@@ -6,10 +6,10 @@ price: '349.000'
 registration: 12/1969
 model_year: 1969
 images:
-  - image_path: /uploads/demo-car/01.jpg
+  - image_path: /uploads/01.jpg
   - image_path: /uploads/demo-car/02.jpg
   - image_path: /uploads/demo-car/03.jpg
-  - image_path: /uploads/3b9c486f-aaa0-44b8-8ee7-7f8a5e923444.jpg
+  - image_path:
 ---
 
 ## Beskrivelse
