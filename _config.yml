@@ -22,7 +22,7 @@ _options:
   image_path:
     width: 1280
     height: 548
-    resize_style: "contain"
+    resize_style: "cover"
     mime_type: "image/jpeg"
     expandable: true
 
