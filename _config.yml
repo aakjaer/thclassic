@@ -18,10 +18,19 @@ defaults:
     values:
       layout: view-car
 
+_options:
+  image_path:
+    width: 1280
+    height: 720
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+    expandable: true
+
 collections:
   cars:
     output: true
     permalink: /:collection/:name
+    
 
 # Exclude from processing.
 # The following items will not be processed, by default.
