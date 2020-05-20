@@ -9,7 +9,6 @@ images:
   - image_path: /uploads/01.jpg
   - image_path: /uploads/demo-car/02.jpg
   - image_path: /uploads/demo-car/03.jpg
-  - image_path:
 ---
 
 ## Beskrivelse
