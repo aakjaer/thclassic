@@ -19,13 +19,12 @@ defaults:
       layout: view-car
 
 _options:
-  images: 
-    image_path:
-      width: 1280
-      height: 548
-      resize_style: "cover"
-      mime_type: "image/jpeg"
-      expandable: true
+  image_path:
+    width: 1280
+    height: 548
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+    expandable: true
 
 collections:
   cars:
