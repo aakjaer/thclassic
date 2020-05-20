@@ -9,6 +9,7 @@ images:
   - image_path: /uploads/01.jpg
   - image_path: /uploads/02.jpg
   - image_path: /uploads/03.jpg
+  - image_path: /uploads/8-1.jpg
 ---
 
 ## Beskrivelse
