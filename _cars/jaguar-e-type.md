@@ -10,6 +10,7 @@ images:
   - image_path: /uploads/02.jpg
   - image_path: /uploads/03.jpg
   - image_path: /uploads/8-1.jpg
+  - image_path: /uploads/0a04a560-03dd-403c-90d6-d30549f60f36.jpg
 ---
 
 ## Beskrivelse
