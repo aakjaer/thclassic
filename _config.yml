@@ -11,6 +11,18 @@ host: 0.0.0.0
 sass:
     sass_dir: assets/scss
 
+defaults:
+  - scope:
+      path: ""
+      type: "cars"
+    values:
+      layout: view-car
+
+collections:
+  cars:
+    output: true
+    permalink: /:collection/:name
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
