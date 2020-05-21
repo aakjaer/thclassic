@@ -8,5 +8,6 @@ model_year: '1969'
 images:
   - image_path: /uploads/01.jpg
   - image_path: /uploads/s-l1600.jpg
+  - image_path: /uploads/s-l1600-2.jpg
 ---
 
