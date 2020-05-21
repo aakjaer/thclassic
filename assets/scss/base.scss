@@ -209,6 +209,7 @@ img.pull-right {
     width: 100%;
 
     .thumbnail  {
+        min-width: 125px;
         max-width: 150px;
     }
 }
