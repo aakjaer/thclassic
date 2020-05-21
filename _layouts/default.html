@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html lang="da">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <title>TH Classic</title>
 
-    <meta name="description" content="">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/main.css">
-    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400&family=Libre+Franklin:wght@300;400;600;700&display=swap" rel="stylesheet"> 
+    <meta name="description" content="" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous" />
+    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/main.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400&family=Libre+Franklin:wght@300;400;600;700&display=swap" rel="stylesheet" /> 
 </head>
 
-<body class="{{ page.class}}">
+<body class="{{ page.active_menu}}">
     <header class="navbar navbar-light navbar-expand-md">
         <a class="navbar-brand" href="/">
-            <img src="/assets/img/logo.png" alt="TH Classic">
+            <img src="/assets/img/logo.png" alt="TH Classic" />
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -25,6 +25,9 @@
                 <li class="nav-home nav-item">
                     <a class="nav-link" href="/">Forside</a>
                 </li>
+                <!-- <li class="nav-cars nav-item">
+                    <a class="nav-link" href="/salgsliste/">Salgsliste</a>
+                </li> -->
                 <li class="nav-about nav-item">
                     <a class="nav-link" href="/om/">Om os</a>
                 </li>
@@ -45,8 +48,8 @@
     <footer>
         <div class="container">
             <div class="editable">
-                <strong>TH Classic ApS</strong><br/>
-                Kystvejen 184 C · 4675 Strøby - Tlf. 40138312 · E-Mail: <a href="mailto:torben@thclassic.dk">torben@thclassic.dk</a><br/>
+                <strong>TH Classic ApS</strong><br />
+                Kystvejen 184 C · 4675 Strøby - Tlf. 4013 8312 · E-Mail: <a href="mailto:torben@thclassic.dk">torben@thclassic.dk</a><br />
                 <small>Copyright © TH Classic. Alle rettigheder forebeholdes.</small>
             </div>
         </div>
@@ -54,6 +57,7 @@
 
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script src="{{ site.baseurl }}/assets/js/main.js"></script>
 
     <script>
         var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");

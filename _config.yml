@@ -11,6 +11,29 @@ host: 0.0.0.0
 sass:
     sass_dir: assets/scss
 
+defaults:
+  - scope:
+      path: ""
+      type: "cars"
+    values:
+      layout: view-car
+
+_options:
+  image_path:
+    width: 1280
+    height: 548
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+    expandable: true
+
+collections:
+  cars:
+    output: true
+    permalink: /salgsliste/:name
+    _image_key: images
+    _images_size: contain
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

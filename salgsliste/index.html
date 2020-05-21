@@ -1,12 +1,34 @@
 ---
 layout: default
-class: cars
+active_menu: cars
 ---
 
 <div class="intro">
     <h1>Salgsliste</h1>
 </div>
 
-
-<iframe class="used-cars" src="http://billisten.bilinfo.dk/www.thclassic.dk/usedcars.asp" frameborder="0">
-</iframe>
+<div class="table-responsive-md">
+    <table class="car-list table table-hover">
+        <thead>
+            <th></th>
+            <th>Mærke og model</th>
+            <th class="text-right">Kilometer</th>
+            <th class="text-right">Modelår</th>
+            <th class="text-right">Pris</th>
+        </thead>
+        
+        <tbody>
+            {% for car in site.cars %}
+                <tr class="row-clickable" data-href="{{ site.baseurl }}{{ car.url }}">
+                    <td>
+                        <img class="thumbnail rounded" src="{{ car.images[0].image_path }}" alt="" />
+                    </td>
+                    <td>{{ car.title }} {{ car.model-details }}</td>
+                    <td class="text-right">{{ car.km }}</td>
+                    <td class="text-right">{{ car.model-year }}</td>
+                    <td class="text-right">{{ car.price }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
