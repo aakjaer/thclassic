@@ -50,13 +50,11 @@ footer {
 //////////////////////////////////////////////
 
 .navbar {
-    margin: 0 0 2rem;
     padding-left: 1.5rem;
     padding-bottom: 0;
     
     @media (min-width: 768px) {
         height: 6.5rem;
-        margin-bottom: 2.5rem;
         padding: 2rem 2.5rem;
 
         .nav-item + .nav-item {
@@ -211,6 +209,7 @@ img.pull-right {
     width: 100%;
 
     .thumbnail  {
-        max-width: 200px;
+        min-width: 125px;
+        max-width: 150px;
     }
 }

@@ -10,7 +10,7 @@ active_menu: cars
 <div class="table-responsive-md">
     <table class="car-list table table-hover">
         <thead>
-            <th></th>
+            <th>Billede</th>
             <th>Mærke og model</th>
             <th class="text-right">Kilometer</th>
             <th class="text-right">Modelår</th>
@@ -20,13 +20,13 @@ active_menu: cars
         <tbody>
             {% for car in site.cars %}
                 <tr class="row-clickable" data-href="{{ site.baseurl }}{{ car.url }}">
-                    <td>
-                        <img class="thumbnail rounded" src="{{ car.images[0].image_path }}" alt="" />
+                    <td class="thumbnail">
+                        <img class="rounded img-fluid" src="{{ car.images[0].image_path }}" alt="" />
                     </td>
-                    <td>{{ car.title }} {{ car.model-details }}</td>
-                    <td class="text-right">{{ car.km }}</td>
-                    <td class="text-right">{{ car.model-year }}</td>
-                    <td class="text-right">{{ car.price }}</td>
+                    <td><div>{{ car.title }}</div>{{ car.model_details }}</td>
+                    <td class="text-right">{{ car.km }} km</td>
+                    <td class="text-right">{{ car.model_year }}</td>
+                    <td class="text-right">{{ car.price }} kr.</td>
                 </tr>
             {% endfor %}
         </tbody>
