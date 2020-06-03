@@ -3,50 +3,58 @@ layout: default
 active_menu: cars
 ---
 
-<div class="intro">
-    <a class="d-flex align-items-center mb-1" href="{{ site.baseurl }}/salgsliste">
-        <svg class="mr-2" width="12" height="10" viewBox="0 0 12 10" xmlns="http://www.w3.org/2000/svg"><g stroke="currentColor" stroke-width="2" fill="none" fill-rule="evenodd"><path stroke-linecap="round" stroke-linejoin="round" d="M5 9L1 5l4-4"></path><path d="M12 5H1.548"></path></g></svg>
-        Alle biler
-    </a>
-    <h1 class="d-inline-block">{{ page.title }}</h1>
-    <p class="d-inline-block lead ml-3">{{ page.model_details }}</p>
-</div>
+<div class="section section-compact section-full">
+    <div class="section-content">
+        <div class="row">
+            <div class="col-lg-4">
+                <a class="d-flex align-items-center mb-1" href="{{ site.baseurl }}/biler">
+                    <svg class="mr-2" width="12" height="10" viewBox="0 0 12 10" xmlns="http://www.w3.org/2000/svg"><g stroke="currentColor" stroke-width="2" fill="none" fill-rule="evenodd"><path stroke-linecap="round" stroke-linejoin="round" d="M5 9L1 5l4-4"></path><path d="M12 5H1.548"></path></g></svg>
+                    Alle biler
+                </a>
+    
+                <div class="intro text-right mr-5">
+                    <h1 class="car-title display-2 mb-2">{{ page.title }}</h1>
+                    <p class="lead">{{ page.model_details }}</p>
+                </div>
 
-<div class="row">
-    <div class="col-md-9">
-        <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
-            <ol class="carousel-indicators">
-                {% for image in page.images %}
-                    <li data-target="#carousel" data-slide-to="{{ forloop.index0 }}" {% if forloop.first %}class="active"{% endif %}></li>
-                {% endfor %}
-            </ol>
-            <div class="carousel-inner">
-                {% for image in page.images %}
-                    <div class="carousel-item {% if forloop.first %}active{% endif %}">
-                        <img src="{{ site.baseurl }}{{ image.image_path}}" class="d-block w-100" alt="" />
-                    </div>
-                {% endfor %}
+                <ul class="list-unstyled text-right mr-5">
+                    <li>Kilometer: {{ page.km }}</li>
+                    <li>1. registeringsdato: {{ page.registration }}</li>
+                    <li>Modelår: {{ page.model_year }}</li>
+                    <li class="car-price">{{ page.price }} kr.</li>
+                </ul>
             </div>
-            <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
+            <div class="col-lg-8">
+                <!-- Image carousel -->
+                <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        {% for image in page.images %}
+                            <li data-target="#carousel" data-slide-to="{{ forloop.index0 }}" {% if forloop.first %}class="active"{% endif %}></li>
+                        {% endfor %}
+                    </ol>
+                    <div class="carousel-inner">
+                        {% for image in page.images %}
+                            <div class="carousel-item {% if forloop.first %}active{% endif %}">
+                                <img src="{{ site.baseurl }}{{ image.image_path}}" class="d-block w-100" alt="" />
+                            </div>
+                        {% endfor %}
+                    </div>
+                    <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+                
+                <div class="car-description">
+                    {{ content }}
+                </div>
+            </div>
         </div>
-
-        <div class="mt-5">
-            {{ content }}
-        </div>
-    </div>
-    <div class="col-md-3">
-        <ul class="list-unstyled">
-            <li>Kilometer: {{ page.km }}</li>
-            <li>1. registeringsdato: {{ page.registration }}</li>
-            <li>Modelår: {{ page.model_year }}</li>
-            <li>Pris: {{ page.price }} kr.</li>
-        </ul>
     </div>
 </div>
+
+

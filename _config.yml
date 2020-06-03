@@ -29,7 +29,7 @@ _options:
 collections:
   cars:
     output: true
-    permalink: /salgsliste/:name
+    permalink: /biler/:name
     _image_key: images
     _images_size: contain
 

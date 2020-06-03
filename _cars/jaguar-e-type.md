@@ -7,7 +7,6 @@ registration: 12/1969
 model_year: 1969
 images:
   - image_path: /uploads/01.jpg
-  - image_path: /uploads/02.jpg
   - image_path: /uploads/03.jpg
 ---
 

@@ -1,5 +1,9 @@
 :root {
+    --font-family-sans-serif: "DM Sans",sans-serif;
     --blue-light: #f2f8ff;
+    --darker: #1f224d;
+    --light: #F3F8FF;
+    --text-muted: #575a7b;
 }
 
 html, body {
@@ -7,9 +11,10 @@ html, body {
 }
 
 body {
+    color: var(--darker);
+    font-size: 1.125rem;
+    font-family: var(--font-family-sans-serif);
     line-height: 1.6em;
-    font-family: "Libre Franklin", sans-serif;
-    color: var(--dark);
 
     @media (min-width: 768px) {
         display: flex;
@@ -32,10 +37,9 @@ body {
 
 footer {
     margin-top: 4em;
-    font-size: 0.875rem;
     padding: 30px 0;
     background: var(--light);
-    color: var(--gray);
+    text-align: center;
     
     @media (min-width: 768px) {
         flex-shrink: 0;        
@@ -50,16 +54,13 @@ footer {
 //////////////////////////////////////////////
 
 .navbar {
-    padding-left: 1.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
     padding-bottom: 0;
     
     @media (min-width: 768px) {
         height: 6.5rem;
-        padding: 2rem 2.5rem;
-
-        .nav-item + .nav-item {
-            margin-left: 2.5rem;
-        }
+        padding: 2rem 4rem;
     }
 
     .navbar-brand img {
@@ -76,14 +77,15 @@ footer {
         }
 
         .nav-link {
-            padding: 0.5rem 0;
-            font-weight: 600;
+            padding: 0.5rem 1.875rem;
+            font-weight: 500;
+            font-size: 1.125rem;
         }
     }    
 
     .navbar-toggler {
         border-color: transparent;
-        color: var(--dark);
+        color: var(--darker);
     }
 
     .navbar-toggler-icon { 
@@ -97,7 +99,7 @@ body.cars .nav-cars .nav-link,
 body.about .nav-about .nav-link,
 body.mercedes .nav-mercedes .nav-link,
 body.contact .nav-contact .nav-link {
-    color: var(--dark);
+    color: var(--darker);
 }
 
 
@@ -109,30 +111,37 @@ body.contact .nav-contact .nav-link {
 
 h1,h2,h3,h4,h5 {
     margin-bottom: 1rem;
-    font-weight: 600;
+    font-weight: 400;
+    font-family: "DM Serif Display", sans-serif;
     letter-spacing: -.015em;
 }
 
-h2 {
-    font-size: 1.5rem;
+h1,.h1 {
+    font-size: 2.25rem;
+}
 
-    &:not(:first-child) {
-        margin-top: 2rem;
+h2,.h2 {
+    font-size: 2.25rem;
+}
+
+.display-2 {
+    font-size: 3rem;
+
+    @media (min-width: 768px) {
+        font-size: 4.5rem;
+    }
+}
+
+.display-3 {
+    font-size: 2.5rem;
+
+    @media (min-width: 768px) {
+        font-size: 3.5rem;
     }
 }
 
 .intro {
-    padding: 1rem 0;
-    
-    h1 {
-        font-size: 2rem;
-        font-weight: 400;
-        font-family: "Libre Baskerville", sans-serif;
-
-        @media (min-width: 768px) {
-            font-size: 2.75rem;
-        }
-    }
+    padding: 6rem 0;    
 }
 
 .page-header {
@@ -144,6 +153,10 @@ h2 {
         font-weight: 400;
         letter-spacing: -0.015em;
     }
+}
+
+.text-muted {
+    color: var(--text-muted) !important;
 }
 
 .lead {
@@ -216,4 +229,116 @@ img.pull-right {
         min-width: 125px;
         max-width: 150px;
     }
+}
+
+.car-title {
+    position: relative;
+
+    &::before {
+        content: '';
+        position: absolute;
+        z-index: -1;
+        display: block;
+        left: -1rem;
+        top: 75%;
+        height: 1rem;
+        width: 50%;
+        transform: rotate(-2deg);
+        background: rgba(245,192,112,.4);
+    }
+}
+
+.car-description {
+    position: relative;
+    z-index: 100;
+    width: calc(100% - 8rem);
+    right: 0;
+    margin-top: -4rem;
+    margin-left: 8rem;
+    padding: 4rem;
+    background: var(--white);
+}
+
+.car-price {
+    display: inline-block;
+    margin-top: 3rem;
+    padding: 1rem 1.5rem;
+    font-size: 1.5rem;
+    background: var(--darker);
+    color: var(--white);
+}
+
+.carousel-indicators {
+    top: 1rem;
+    bottom: auto;
+}
+
+//////////////////////////////////////////////
+
+// Utility
+
+//////////////////////////////////////////////
+
+.pl-lg-6, .px-lg-6 {
+    padding-left: 2rem !important;
+}
+.pr-lg-6, .px-lg-6 {
+    padding-right: 2rem !important;
+}
+
+//////////////////////////////////////////////
+
+// Sections
+
+//////////////////////////////////////////////
+
+
+// Content sections
+.section {
+    position: relative;
+    overflow: hidden;
+    background-repeat: no-repeat;
+
+    .container {
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+
+        @media (min-width: 992px) {
+            padding-left: 4rem;
+            padding-right: 4rem;
+        }
+    }
+
+    .section-content {
+        @extend .container;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 6rem 1.5rem;
+        font-size: 1.125rem;
+    
+        @media (min-width: 576px) {
+            padding-left: 2.5rem;
+            padding-right: 2.5rem;
+        }
+
+        @media (min-width: 992px) {
+            padding: 6rem 4rem;        
+        }
+    }
+}
+
+
+.section-full .section-content {
+    @media (min-width: 1200px) {
+        max-width: 1680px;
+    }
+}
+
+.section-compact .section-content {
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.table {
+    color: var(--darker)
 }
