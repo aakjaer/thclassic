@@ -1,15 +1,24 @@
 ---
-title: Jaguar E-Type
-model_details: '4,2 2+2 Coupé aut. 3d'
-km: '62.000'
-price: '349.000'
-registration: 12/1969
-model_year: 1969
+title: 'Mercedes Benz E 400/420. Type W 124 Reg. 1. gang d. 6.3.1994, KM kun 119.900.'
+model_details:
+km: 119.000 km
+price: '249.900'
+registration: 6. marts 1994
+model_year: 1994
 images:
-  - image_path: /uploads/01.jpg
-  - image_path: /uploads/03.jpg
+  - image_path: /uploads/img-4260.jpg
 ---
 
 ## Beskrivelse
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo similique, vel neque exercitationem eaque tenetur provident obcaecati minima id sequi nam ut explicabo praesentium quisquam fugit iusto cum corrupti atque sed saepe deleniti\! In vitae, dicta accusamus necessitatibus dolorem asperiores repellat deserunt veritatis laboriosam amet similique, dolor rerum, maxime voluptas voluptate sunt odio eos eligendi suscipit pariatur. Rem eligendi ducimus odit quidem rerum inventore repellendus porro, modi accusamus autem repudiandae numquam nam nulla voluptate aspernatur possimus enim ex reprehenderit? Dignissimos labore, temporibus expedita voluptate quasi eius hic soluta perferendis ducimus mollitia nam accusantium voluptatum consectetur? Cupiditate ut deleniti dignissimos voluptas.
+En Mercedes Benz E 400 er hvad man kunne kalde en ”Ulv i F&aring;rekl&aelig;der” Den adskiller sig ikke v&aelig;sentligt fra de almindelige W124-modeller i det ydre. Den er imidlertid p&aring; h&oslash;jde med den legendariske E 500 rent teknisk. En E 400 og E 420 har den samme type motor som E 500 nemlig en V-8 type M 119. I denne bil hedder versionen M 119 E42 idet den har 4.196 cm3 og 205 KW/279HK og et moment p&aring; 400NM. Bilen accelerer fra 0-100 km/t p&aring; kun 7,2 sec. En bil som denne kan p&aring; alle m&aring;der m&aring;le sig med de fleste moderne biler b&aring;de i komfort og k&oslash;reoplevelse.
+
+Bilen er importeret fra Japan, hvor den kun havde haft &eacute;n ejer. Det er i Japan muligt at finde super velholdte biler, som ikke har k&oslash;rt s&aelig;rlig meget. Ofte har ejerne prim&aelig;rt haft bilerne som hobby og prestige samtidig med, at de er blevet passet efter alle kunstens regler.
+
+Farven er Briliant-silber og interi&oslash;ret er sort l&aelig;der der fremst&aring;r som nyt.
+
+Udstyrslisten er lang, men vi kan fremh&aelig;ve f&oslash;lgende: Automatgear. Fuldautomatisk klimaanl&aelig;g. Dobbelt airbag. El-soltag, skyde vippe. El-s&aelig;der i begge sider.El-ruder. Fartpilot.Tonede ruder med varmed&aelig;mpende glas.El-rullegardin i bagrude.Klapbart arml&aelig;n mellem fors&aelig;der.Automatiske nakkest&oslash;tter bag.Makeup-spejle med lys i solsk&aelig;rme.Originale aluminiumsf&aelig;lge.El-sidespejl. Lygte viske/vaskere.ABS-bremsesystem. El-antenne.Og en lang r&aelig;kke andre ting.
+
+BEM&AElig;RK: Bilen har kun k&oslash;rt 119.000 km fra ny.
+
+&nbsp;
