@@ -1,5 +1,5 @@
 ---
-title: Mercedes Benz 500 SEC.
+title: Mercedes Benz 500 SEC
 model_details: Type W 126C
 km: '174.000'
 price: '155.000'
