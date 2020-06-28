@@ -1,7 +1,7 @@
 ---
-title: 'Mercedes Benz E 400/420. Type W 124 Reg. 1. gang d. 6.3.1994, KM kun 119.900.'
+title: Mercedes Benz E 400/420. Type W 124
 model_details:
-km: 119.000 km
+km: '119.000'
 price: '249.900'
 registration: 6. marts 1994
 model_year: 1994
