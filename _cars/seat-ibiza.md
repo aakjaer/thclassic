@@ -8,6 +8,7 @@ model_year:
 images:
   - image_path: /uploads/img-3620.jpg
   - image_path: /uploads/img-3619.jpg
+  - image_path:
 ---
 
 ## Beskrivelse
@@ -18,7 +19,22 @@ Bilen er importeret fra Tyskland, hvor den kun havde haft &eacute;n ejer. Den en
 
 Farven er Impala-metallic med beige l&aelig;der interi&oslash;r.
 
-Udstyrslisten er lang, men vi kan fremh&aelig;ve f&oslash;lgende:Automatgear.Fuldautomatisk klimaanl&aelig;g.El-soltag, skyde vippe.El-s&aelig;der i begge sider.El-ruder.Tonede ruder med varmed&aelig;mpende glas.Alu-f&aelig;lge.Automatisk sele-fremf&oslash;ring.El-sidespejl.Lygte viske/vaskere.ABS-bremsesystem.Brandslukker.Og en lang r&aelig;kke andre ting.
+Udstyrslisten er lang, men vi kan fremh&aelig;ve f&oslash;lgende:
+
+* Automatgear.
+* Fuldautomatisk klimaanl&aelig;g.
+* El-soltag, skyde vippe.
+* El-s&aelig;der i begge sider.
+* El-ruder.
+* Tonede ruder med varmed&aelig;mpende glas.
+* Alu-f&aelig;lge.
+* Automatisk sele-fremf&oslash;ring.
+* El-sidespejl.
+* Lygte viske/vaskere.
+* ABS-bremsesystem.
+* Brandslukker.
+
+Og en lang r&aelig;kke andre ting.
 
 Bilen har i alt k&oslash;rt 174.000 km fra ny, og vi har netop givet den et stort service med olie og oliefilter, luftfilter, konvertering af k&oslash;lemiddel p&aring; aircondition anl&aelig;get, k&oslash;lerv&aelig;ske m.v. Den har ogs&aring; f&aring;et en dobbelt Dinitrol undervognsbehandling. Bilen er s&aring;ledes klar til at give sin nye ejer k&oslash;regl&aelig;de straks, og i mange &aring;r fremover. &nbsp;
 
