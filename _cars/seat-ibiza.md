@@ -8,7 +8,7 @@ model_year:
 images:
   - image_path: /uploads/img-3620.jpg
   - image_path: /uploads/img-3619.jpg
-  - image_path:
+  - image_path: /uploads/IMG_3610.jpeg
 ---
 
 ## Beskrivelse
