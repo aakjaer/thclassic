@@ -1,6 +1,6 @@
 ---
-title: Mercedes Benz E 400/420. Type W 124
-model_details:
+title: Mercedes Benz E 400/420
+model_details: Type W 124
 km: '119.000'
 price: '249.900'
 registration: 6. marts 1994
