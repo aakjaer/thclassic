@@ -21,7 +21,7 @@ active_menu: cars
                     {% for car in site.cars %}
                         <tr class="row-clickable" data-href="{{ site.baseurl }}{{ car.url }}">
                             <td class="thumbnail">
-                                <img class="rounded img-fluid" src="{{ car.images[0].image_path }}" alt="" />
+                                <img class="rounded img-fluid" src="{{ car.thumbnail_image_path }}" alt="" />
                             </td>
                             <td>
                                 <div>{{ car.title }}</div>

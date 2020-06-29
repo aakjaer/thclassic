@@ -28,12 +28,12 @@ active_menu: cars
                 <!-- Image carousel -->
                 <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
                     <ol class="carousel-indicators">
-                        {% for image in page.images %}
+                        {% for image in page.gallery %}
                             <li data-target="#carousel" data-slide-to="{{ forloop.index0 }}" {% if forloop.first %}class="active"{% endif %}></li>
                         {% endfor %}
                     </ol>
                     <div class="carousel-inner">
-                        {% for image in page.images %}
+                        {% for image in page.gallery %}
                             <div class="carousel-item {% if forloop.first %}active{% endif %}">
                                 <img src="{{ site.baseurl }}{{ image.image_path}}" class="d-block w-100" alt="" />
                             </div>
