@@ -49,18 +49,18 @@ Farven er Impala-metallic med beige l&aelig;der interi&oslash;r.
 
 Udstyrslisten er lang, men vi kan fremh&aelig;ve f&oslash;lgende:
 
-* Automatgear.
-* Fuldautomatisk klimaanl&aelig;g.
-* El-soltag, skyde vippe.
-* El-s&aelig;der i begge sider.
-* El-ruder.
-* Tonede ruder med varmed&aelig;mpende glas.
-* Alu-f&aelig;lge.
-* Automatisk sele-fremf&oslash;ring.
-* El-sidespejl.
-* Lygte viske/vaskere.
-* ABS-bremsesystem.
-* Brandslukker.
+* Automatgear
+* Fuldautomatisk klimaanl&aelig;g
+* El-soltag, skyde vippe
+* El-s&aelig;der i begge sider
+* El-ruder
+* Tonede ruder med varmed&aelig;mpende glas
+* Alu-f&aelig;lge
+* Automatisk sele-fremf&oslash;ring
+* El-sidespejl
+* Lygte viske/vaskere
+* ABS-bremsesystem
+* Brandslukker
 
 Og en lang r&aelig;kke andre ting.
 

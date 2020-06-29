@@ -35,22 +35,22 @@ Farven er Briliant-silber og interi&oslash;ret er sort l&aelig;der der fremst&ar
 
 Udstyrslisten er lang, men vi kan fremh&aelig;ve f&oslash;lgende:
 
-* Automatgear.
-* Fuldautomatisk klimaanl&aelig;g.
-* Dobbelt airbag. El-soltag, skyde vippe.
-* El-s&aelig;der i begge sider.
-* El-ruder.
-* Fartpilot.
-* Tonede ruder med varmed&aelig;mpende glas.
-* El-rullegardin i bagrude.
-* Klapbart arml&aelig;n mellem fors&aelig;der.
-* Automatiske nakkest&oslash;tter bag.
-* Makeup-spejle med lys i solsk&aelig;rme.
-* Originale aluminiumsf&aelig;lge.
-* El-sidespejl.
-* Lygte viske/vaskere.
-* ABS-bremsesystem.
-* El-antenne.
+* Automatgear
+* Fuldautomatisk klimaanl&aelig;g
+* Dobbelt airbag. El-soltag, skyde vippe
+* El-s&aelig;der i begge sider
+* El-ruder
+* Fartpilot
+* Tonede ruder med varmed&aelig;mpende glas
+* El-rullegardin i bagrude
+* Klapbart arml&aelig;n mellem fors&aelig;der
+* Automatiske nakkest&oslash;tter bag
+* Makeup-spejle med lys i solsk&aelig;rme
+* Originale aluminiumsf&aelig;lge
+* El-sidespejl
+* Lygte viske/vaskere
+* ABS-bremsesystem
+* El-antenne
 
 Og en lang r&aelig;kke andre ting.
 
