@@ -54,6 +54,6 @@ Udstyrslisten er lang, men vi kan fremh&aelig;ve f&oslash;lgende:
 
 Og en lang r&aelig;kke andre ting.
 
-BEM&AElig;RK: Bilen har kun k&oslash;rt 119.000 km fra ny.
+BEM&AElig;RK: Bilen har kun k&oslash;rt 119.000 km fra ny, den er helt uden rust og den k&oslash;rer - og ser ud - som en ny bil.
 
 &nbsp;
