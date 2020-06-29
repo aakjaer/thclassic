@@ -6,8 +6,36 @@ price: '249.900'
 registration: 6. marts 1994
 model_year: 1994
 images:
-  - image_path: /uploads/img-4260.jpg
-  - image_path:
+  - image_path: /uploads/500sec/IMG_3610.jpeg
+  - image_path: /uploads/500sec/IMG_3611.jpeg
+  - image_path: /uploads/500sec/IMG_3612.jpeg
+  - image_path: /uploads/500sec/IMG_3613.jpeg
+  - image_path: /uploads/500sec/IMG_3614.jpeg
+  - image_path: /uploads/500sec/IMG_3615.jpeg
+  - image_path: /uploads/500sec/IMG_3616.jpeg
+  - image_path: /uploads/500sec/IMG_3617.jpeg
+  - image_path: /uploads/500sec/IMG_3618.jpeg
+  - image_path: /uploads/500sec/IMG_3619.jpeg
+  - image_path: /uploads/500sec/IMG_3620.jpeg
+  - image_path: /uploads/500sec/IMG_3621.jpeg
+  - image_path: /uploads/500sec/IMG_3622.jpeg
+  - image_path: /uploads/500sec/IMG_3623.jpeg
+  - image_path: /uploads/500sec/IMG_3624.jpeg
+  - image_path: /uploads/500sec/IMG_3625.jpeg
+  - image_path: /uploads/500sec/IMG_3626.jpeg
+  - image_path: /uploads/500sec/IMG_3627.jpeg
+  - image_path: /uploads/500sec/IMG_3628.jpeg
+  - image_path: /uploads/500sec/IMG_3629.jpeg
+  - image_path: /uploads/500sec/IMG_3630.jpeg
+  - image_path: /uploads/500sec/IMG_3631.jpeg
+  - image_path: /uploads/500sec/IMG_3632.jpeg
+  - image_path: /uploads/500sec/IMG_3633.jpeg
+  - image_path: /uploads/500sec/IMG_3634.jpeg
+  - image_path: /uploads/500sec/IMG_3635.jpeg
+  - image_path: /uploads/500sec/IMG_3635.jpeg
+  - image_path: /uploads/500sec/IMG_3636.jpeg
+  - image_path: /uploads/500sec/IMG_3637.jpeg
+  - image_path: /uploads/500sec/IMG_3638.jpeg
 ---
 
 ## Beskrivelse

@@ -264,25 +264,6 @@ img.pull-right {
 }
 
 .car-title {
-    position: relative;
-
-    &::before {
-        content: '';
-        position: absolute;
-        z-index: -1;
-        display: block;
-        left: -1rem;
-        top: 75%;
-        height: 1rem;
-        width: 50%;
-        transform: rotate(-2deg);
-        background: var(--blue-light);
-
-        @media (min-width: 768px) {
-            left: auto;
-            right: -1rem;
-        }
-    }
 }
 
 .car-description {
