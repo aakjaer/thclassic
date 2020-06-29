@@ -1,0 +1,39 @@
+---
+layout: default
+active_menu: cars
+---
+
+<section class="section section-compact">
+    <div class="section-content">
+        <h1 class="display-4 mb-5">Biler</h1>
+
+        <div class="table-responsive-md">
+            <table class="car-list table table-hover">
+                <thead>
+                    <th>Billede</th>
+                    <th>Mærke og model</th>
+                    <th class="text-right">Kilometer</th>
+                    <th class="text-right">Modelår</th>
+                    <th class="text-right">Pris</th>
+                </thead>
+                
+                <tbody>
+                    {% for car in site.cars %}
+                        <tr class="row-clickable" data-href="{{ site.baseurl }}{{ car.url }}">
+                            <td class="thumbnail">
+                                <img class="rounded img-fluid" src="{{ car.thumbnail_image_path }}" alt="" />
+                            </td>
+                            <td>
+                                <div>{{ car.title }}</div>
+                                <span class="text-muted">{{ car.model_details }}</span>
+                            </td>
+                            <td class="text-right">{{ car.km }} km</td>
+                            <td class="text-right">{{ car.model_year }}</td>
+                            <td class="text-right">{{ car.price }} kr.</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>
