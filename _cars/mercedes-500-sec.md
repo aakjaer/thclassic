@@ -2,7 +2,7 @@
 title: Mercedes Benz 500 SEC
 model_details: Type W 126C
 km: '174.000'
-price: '155.000'
+price: '224.900'
 registration: 15. maj 1987
 model_year: 1987
 thumbnail_image_path: /uploads/mercedes-500-sec/thumbnail.jpeg
