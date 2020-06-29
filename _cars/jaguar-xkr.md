@@ -4,7 +4,7 @@ model_details: Convertible
 km: '209.000'
 price: '294.900'
 registration: 1. maj 2000
-model_year: '-'
+model_year: '2000'
 thumbnail_image_path: /uploads/jaguar-xkr/thumbnail.jpeg
 gallery:
   - image_path: /uploads/jaguar-xkr/IMG_4090.jpeg
