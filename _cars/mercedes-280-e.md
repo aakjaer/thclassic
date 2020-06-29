@@ -4,7 +4,7 @@ model_details: Type W 124
 km: '43.000'
 price: '169.900'
 registration: 5. maj 1993
-model_year:
+model_year: '1993'
 thumbnail_image_path: /uploads/mercedes-280-e/thumbnail.jpg
 gallery:
   - image_path: /uploads/mercedes-280-e/IMG_3688.jpeg
