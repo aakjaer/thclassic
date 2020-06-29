@@ -3,7 +3,7 @@ title: Mercedes 300 SL
 model_details: Type W 129
 km: '307.000'
 price: '164.900'
-registration: '-'
+registration: 28. juni 1990
 model_year: '1990'
 thumbnail_image_path: /uploads/mercedes-300-sl/thumbnail.jpeg
 gallery:
@@ -38,28 +38,26 @@ gallery:
   - image_path: /uploads/mercedes-300-sl/IMG_3577.jpeg
   - image_path: /uploads/mercedes-300-sl/IMG_3578.jpeg
   - image_path: /uploads/mercedes-300-sl/IMG_3579.jpeg
-  - image_path: /uploads/mercedes-300-sl/IMG_3580.jpeg  
-
+  - image_path: /uploads/mercedes-300-sl/IMG_3580.jpeg
 ---
 
 ## Beskrivelse
 
-Denne bil er tidligere importeret fra Tyskland. Den har løbende været vedligeholdt i Danmark af ejere, som var villige til at ofre det nødvendige for at holde den i fin form. TH Classic Aps har siden 2006 passet den med alt hvad den behøvede for at fungere optimalt. Den har i perioden også fået en ny kaleche.  
+Denne bil er tidligere importeret fra Tyskland. Den har l&oslash;bende v&aelig;ret vedligeholdt i Danmark af ejere, som var villige til at ofre det n&oslash;dvendige for at holde den i fin form. Jeg har siden 2006 passet den med alt hvad den beh&oslash;vede for at fungere optimalt. Den har i perioden ogs&aring; f&aring;et en ny kaleche.
 
-Disse 129-modeller er fra fabrikkens side fremstillet uden skelen til omkostningerne. Derfor mærker man stadig den dag i dag, at der er tale om ægte Mercedes kvalitet. Der er ingen billige eller sjuskede løsninger i en W129. En bil som denne, med det nedennævnte udstyr kostede i 1990 ca. kr. 1.450.000. Dette er i sig selv en indikation af den høje kvalitet fra fabrikkens side. 
+Disse 129-modeller er fra fabrikkens side fremstillet uden skelen til omkostningerne. Derfor m&aelig;rker man stadig den dag i dag, at der er tale om &aelig;gte Mercedes kvalitet. Der er ingen billige eller sjuskede l&oslash;sninger i en W129. En bil som denne, med det nedenn&aelig;vnte udstyr kostede i 1990 ca. kr. 1.450.000. Dette er i sig selv en indikation af den h&oslash;je kvalitet fra fabrikkens side.
 
-Farven er Blauschwartz-metallic med sort læder interiør. 
+Farven er Blauschwartz-metallic med sort l&aelig;der interi&oslash;r. Der medf&oslash;lger original&nbsp; hardtop i samme farve som bilen.
 
-Udstyrslisten er lang, men vi kan her fremhæve: 
+Udstyrslisten er lang, men vi kan her fremh&aelig;ve:
 
 * Automatgear
-* Fuldautomatisk klimaanlæg
-* El-sæder i begge sider
+* Fuldautomatisk klimaanl&aelig;g
+* El-s&aelig;der i begge sider
 * Fuldautomatisk kaleche
-* Hardtop i eksteriør-farven medfølger
+* Hardtop i eksteri&oslash;r-farven medf&oslash;lger
 * El-ruder
-* Alu-fælge
-* Og en lang række andre ting
+* Alu-f&aelig;lge
+* Og en lang r&aelig;kke andre ting
 
-Bilen har i alt kørt ca. 307.000 km fra ny, men den fremtræder som en bil, der kun har kørt ca. 100.000 km. Dette skyldes uden tvivl, at samtlige bilens ejere har ønsket, at den skulle fremstå original uden at være ”brianiseret” på noget tidspunkt. Motoren er den ”rigtige” 3,0 liters med 272 hk, som er holdbar, nem at vedligeholde og problemløs. Den sideløbende type med 24v er mere støjende, mere benzinforbrugende og giver til tider tekniske problemer. Derfor er det vores vurdering, at denne model på sigt er den mest eftertragtede både som brugsbil og som investering. 
-
+Bilen har i alt k&oslash;rt ca. 308.000 km fra ny, men den fremtr&aelig;der som en bil, der kun har k&oslash;rt ca. 100.000 km. Dette skyldes uden tvivl, at samtlige bilens ejere har &oslash;nsket, at den skulle fremst&aring; original uden at v&aelig;re ”brianiseret” p&aring; noget tidspunkt. Motoren er den ”rigtige” 3,0 liters med 272 hk, som er holdbar, nem at vedligeholde og probleml&oslash;s. Den sidel&oslash;bende type med 24v er mere st&oslash;jende, mere benzinforbrugende og giver til tider tekniske problemer. Derfor er det vores vurdering, at denne model p&aring; sigt er den mest eftertragtede b&aring;de som brugsbil og som investering.
