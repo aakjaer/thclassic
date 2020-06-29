@@ -35,11 +35,11 @@ gallery:
 
 ## Beskrivelse
 
-En Mercedes Benz W 124 er p&aring; mange m&aring;der en fantastisk bil. Den har den tidl&oslash;se elegance som kun Mercedes kan pr&aelig;stere. Samtidig er den virkelig holdbar og et h&aring;ndv&aelig;rksm&aelig;ssigt mesterv&aelig;rk. Derfor har modellen siden introduktionen i 1985 f&aring;et en lang r&aelig;kke W124-fans, som s&aelig;tter pris p&aring; modellens mange kvaliteter. Siden ca. 1988 har jeg personlig importeret og handlet over 1000 stk. af denne legendariske model. Det er derfor med en vis stolthed, at jeg her kan pr&aelig;sentere et pragteksemplar af racen.
+En Mercedes Benz W124 er p&aring; mange m&aring;der en fantastisk bil. Den har den tidl&oslash;se elegance som kun Mercedes kan pr&aelig;stere. Samtidig er den virkelig holdbar og et h&aring;ndv&aelig;rksm&aelig;ssigt mesterv&aelig;rk. Derfor har modellen siden introduktionen i 1985 f&aring;et en lang r&aelig;kke W124-fans, som s&aelig;tter pris p&aring; modellens mange kvaliteter. Siden ca. 1987 har jeg personlig importeret og handlet over 1000 stk. af denne legendariske model. Det er derfor med en vis stolthed, at jeg her kan pr&aelig;sentere et pragteksemplar af racen.
 
 Denne 280E fra 1993 er en af de sidste ”rigtige” biler i W124-serien, som har den oprindelige gode holdbarhed rustm&aelig;ssigt. Som bekendt blev modellen opgraderet til E-klassen med de deraf f&oslash;lgende problemer med rust p&aring; grund af vandbaseret grundmaling.
 
-Bilen er importeret fra Japan. Det er i Japan muligt at finde super velholdte biler, som ikke har k&oslash;rt s&aelig;rlig meget. Ofte har ejerne prim&aelig;rt haft bilerne som prestige samtidig har de gjort meget ud af korrekt vedligeholdelse. Derfor fremtr&aelig;der bilen helt uden rust og ligner p&aring; alle punkter en ny bil.
+Bilen er importeret fra Japan. Det er i Japan muligt at finde super velholdte biler, som ikke har k&oslash;rt s&aelig;rlig meget. Ofte har ejerne prim&aelig;rt haft bilerne som prestige og samtidig har de gjort meget ud af korrekt vedligeholdelse. Derfor fremtr&aelig;der bilen helt uden rust og ligner p&aring; alle punkter en ny bil.
 
 Farven er Perlmuth-silber-metallic (farvekode 122) og interi&oslash;ret er sort stof der fremst&aring;r som nyt.
 
@@ -57,9 +57,10 @@ Udstyrslisten er lang, men vi kan fremh&aelig;ve f&oslash;lgende:
 * Automatiske nakkest&oslash;tter bag.
 * Originale aluminiumsf&aelig;lge.
 * El-sidespejle
-* ABS-bremsesystem. El-antenne.
+* ABS-bremsesystem.
+* El-antenne.
 
-Og en lang r&aelig;kke andre ting. For entusiaster som g&aring;r op i udstyrskoder kan jeg n&aelig;vne, at denne bil har f&oslash;lgende 18 udstyrskoder: 221-222-240-341-420-430-440-498-524-543-570-586-593-615-652-664-803-916.
+Og en r&aelig;kke andre ting. For entusiaster som g&aring;r op i udstyrskoder kan jeg n&aelig;vne, at denne bil har f&oslash;lgende 18 udstyrskoder: 221-222-240-341-420-430-440-498-524-543-570-586-593-615-652-664-803-916.
 
 Hvis du vil have det bedste man kan forestille sig i denne legendariske bilserie, s&aring; er chancen her. N&aring;r denne bil er solgt, bliver det ikke nemt at finde en tilsvarende.
 
