@@ -43,22 +43,22 @@ gallery:
 
 ## Beskrivelse
 
-Disse Mercedes Benz C 107 modeller er blevet meget eftertragtede de senere år. Investeringsmæssigt er det især de biler, som er produceret i ret få eksemplarer, der tiltrækker sig størst opmærksomhed. Denne 350 SLC er netop en af disse modeller. Der er i alt kun produceret 13.925 stk. 350 SLC i hele perioden fra 1971 til 1980. Langt de fleste - nemlig 9.312 stk. blev produceret de første år  1972 og 73. 
+Disse Mercedes Benz C 107 modeller er blevet meget eftertragtede de senere &aring;r. Investeringsm&aelig;ssigt er det is&aelig;r de biler, som er produceret i ret f&aring; eksemplarer, der tiltr&aelig;kker sig st&oslash;rst opm&aelig;rksomhed. Denne 350 SLC er netop en af disse modeller. Der er i alt kun produceret 13.925 stk. 350 SLC i hele perioden fra 1971 til 1980. Langt de fleste - nemlig 9.312 stk. blev produceret de f&oslash;rste &aring;r 1972 og 73.
 
-I året 1978 hvor denne bil er fra, blev der kun produceret 807 stk. 
+I &aring;ret 1978 hvor denne bil er fra, blev der kun produceret 807 stk.
 
-Bilen er importeret fra Tyskland i 1987 da den havde kørt 114.000 km. Den blev købt af en ældre dansk bilentusiast, som har haft den indtil han døde i 2019. Denne eneste danske ejer har ofret mange penge på at holde bilen i fin stand, men fik ikke kørt ret mange km i den gennem årene. Af synsrapporterne fremgår det, at det typisk i gennemsnit kun blev til ca. 1.000 km om året. 
+Bilen er importeret fra Tyskland i 1987 da den havde k&oslash;rt 114.000 km. Den blev k&oslash;bt af en &aelig;ldre dansk bilentusiast, som har haft den indtil han d&oslash;de i 2019. Denne eneste danske ejer har ofret mange penge p&aring; at holde bilen i fin stand, men fik ikke k&oslash;rt ret mange km i den gennem &aring;rene. Af synsrapporterne fremg&aring;r det, at det typisk i gennemsnit blev til ca. 1.000 km om &aring;ret.
 
-Bilen kører rigtig godt og fremtræder flot og elegant. Vi leverer den med ny service, så den er klar til at køre ud i sommerlandet med sin nye ejer.  
+Bilen k&oslash;rer rigtig godt og fremtr&aelig;der flot og elegant. Vi leverer den nysynet med ny service, s&aring; den er klar til at k&oslash;re ud i sommerlandet med sin nye ejer.
 
-Farven er astral-silber-metallic med mørkeblåt interiør. 
+Farven er astral-silber-metallic med m&oslash;rkebl&aring;t interi&oslash;r.
 
-Af udstyr kan vi fremhæve: 
+Af udstyr kan vi fremh&aelig;ve:
 
 * Automatgear
 * El-soltag
-* Tågelygter
-* Tonede ruder med varmedæmpende glas
-* Alu-fælge 
+* T&aring;gelygter
+* Tonede ruder med varmed&aelig;mpende glas
+* Alu-f&aelig;lge
 
-Da bilen er veteranbil, er synsintervallet 7 år. Vægtafgiften er kun 1/4 af den normale. Forsikring vil også være billig.
+Da bilen er veteranbil, er synsintervallet 7 &aring;r. V&aelig;gtafgiften er kun 1/4 af den normale. Forsikring vil ogs&aring; v&aelig;re billig.
