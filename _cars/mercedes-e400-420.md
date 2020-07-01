@@ -27,7 +27,7 @@ gallery:
 
 ## Beskrivelse
 
-En Mercedes Benz E400 er hvad man kunne kalde en ”Ulv i F&aring;rekl&aelig;der”. Den adskiller sig ikke v&aelig;sentligt fra de almindelige W124-modeller i det ydre. Den er imidlertid p&aring; h&oslash;jde med den legendariske E500 rent teknisk. En E400 og E420 har den samme type motor som E500 nemlig en V-8 type M 119. I denne bil hedder versionen M 119 E42 idet den har 4.196 cm3 og 205 KW/279HK og et moment p&aring; 400NM. Bilen accelerer fra 0-100 km/t p&aring; kun 7,2 sec. En bil som denne kan p&aring; alle m&aring;der m&aring;le sig med de fleste moderne biler b&aring;de i komfort og k&oslash;reoplevelse.
+En Mercedes Benz E400 er hvad man kunne kalde en ”Ulv i F&aring;rekl&aelig;der”. Den adskiller sig ikke v&aelig;sentligt fra de almindelige W124-modeller i det ydre. Den er imidlertid p&aring; h&oslash;jde med den legendariske E500 rent teknisk. En E400 og E420 har den samme type motor som E500 nemlig en V-8 type M 119. I denne bil hedder versionen M 119 E42 idet den har 4.196 cm3 og 205 KW/279HK og et moment p&aring; 400NM. Bilen accelerer fra 0-100 km/t p&aring; kun 7,2 sekunder. En bil som denne kan p&aring; alle m&aring;der m&aring;le sig med de fleste moderne biler b&aring;de i komfort og k&oslash;reoplevelse.
 
 Bilen er importeret fra Japan, hvor den kun havde haft &eacute;n ejer. Det er i Japan muligt at finde super velholdte biler, som ikke har k&oslash;rt s&aelig;rlig meget. Ofte har ejerne prim&aelig;rt haft bilerne som hobby og prestige samtidig med, at de er blevet passet efter alle kunstens regler.
 
