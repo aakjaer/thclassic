@@ -64,6 +64,6 @@ Udstyrslisten er lang, men vi kan fremh&aelig;ve f&oslash;lgende:
 
 Og en lang r&aelig;kke andre ting.
 
-Bilen har i alt k&oslash;rt 174.000 km fra ny, og vi har netop givet den et stort service med olie og oliefilter, luftfilter, konvertering af k&oslash;lemiddel p&aring; aircondition anl&aelig;get, k&oslash;lerv&aelig;ske m.v. Den har ogs&aring; f&aring;et en dobbelt Dinitrol undervognsbehandling. Bilen er s&aring;ledes klar til at give sin nye ejer k&oslash;regl&aelig;de straks, og i mange &aring;r fremover. &nbsp;
+Bilen har i alt k&oslash;rt 174.000 km fra ny, og vi har netop givet den et stort service med olie og oliefilter, luftfilter, konvertering af k&oslash;lemiddel p&aring; aircondition, ny k&oslash;lerv&aelig;ske m.v. Den har ogs&aring; f&aring;et en dobbelt Dinitrol undervognsbehandling. Bilen er s&aring;ledes klar til at give sin nye ejer k&oslash;regl&aelig;de straks, og i mange &aring;r fremover. &nbsp;
 
 Bilen kan allerede nu synes som veteranbil, og i maj 2022 bliver den 35 &aring;r og dermed vil v&aelig;gtafgiften kun v&aelig;re 25% af den nuv&aelig;rende.&nbsp;
