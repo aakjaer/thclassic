@@ -9,6 +9,8 @@ thumbnail_image_path: /uploads/mercedes-e400-420/thumbnail.jpeg
 gallery:
   - image_path: /uploads/mercedes-e400-420/IMG_4259.jpeg
   - image_path: /uploads/mercedes-e400-420/IMG_4260.jpeg
+  - image_path: /uploads/mercedes-e400-420/IMG_5055.JPG
+  - image_path: /uploads/mercedes-e400-420/IMG_5057.JPG
 ---
 
 ## Beskrivelse
