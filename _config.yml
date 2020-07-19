@@ -13,14 +13,14 @@ sass:
 
 _options:
   image_path:
-    width: 90
-    height: 120
+    width: 1600
+    height: 1200
     resize_style: "contain"
     mime_type: "image/jpeg"
     expandable: true
   content:
-    width: 90
-    height: 120
+    width: 1600
+    height: 1200
     resize_style: "cover"
     mime_type: "image/png"
 
