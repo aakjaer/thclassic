@@ -5,7 +5,7 @@ km: '119.000'
 price: '249.900'
 registration: 6. marts 1994
 model_year: 1994
-thumbnail_image_path: /uploads/mercedes-e400-420/thumbnail.jpeg
+thumbnail_image_path:
 gallery:
   - image_path: /uploads/mercedes-e400-420/IMG_5055.JPG
   - image_path: /uploads/mercedes-e400-420/IMG_5057.JPG
