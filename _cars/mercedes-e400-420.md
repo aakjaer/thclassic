@@ -9,8 +9,27 @@ thumbnail_image_path: /uploads/mercedes-e400-420/thumbnail.jpeg
 gallery:
   - image_path: /uploads/mercedes-e400-420/IMG_4259.jpeg
   - image_path: /uploads/mercedes-e400-420/IMG_4260.jpeg
-  - image_path: /uploads/mercedes-e400-420/IMG_5055.JPG
   - image_path: /uploads/mercedes-e400-420/IMG_5057.JPG
+  - image_path: /uploads/mercedes-e400-420/IMG_5055.JPG
+  - image_path: /uploads/mercedes-e400-420/IMG_5056.JPG
+  - image_path: /uploads/mercedes-e400-420/IMG_5058.JPG
+  - image_path: /uploads/mercedes-e400-420/IMG_5059.JPG
+  - image_path: /uploads/mercedes-e400-420/IMG_5060.JPG
+  - image_path: /uploads/mercedes-e400-420/IMG_5061.JPG
+  - image_path: /uploads/mercedes-e400-420/IMG_5063.JPG
+  - image_path: /uploads/mercedes-e400-420/IMG_5064.JPG
+  - image_path: /uploads/mercedes-e400-420/IMG_5065.JPG
+  - image_path: /uploads/mercedes-e400-420/IMG_5066.JPG
+  - image_path: /uploads/mercedes-e400-420/IMG_5067.JPG
+  - image_path: /uploads/mercedes-e400-420/IMG_5068.JPG
+  - image_path: /uploads/mercedes-e400-420/IMG_5069.JPG
+  - image_path: /uploads/mercedes-e400-420/IMG_5070.JPG
+  - image_path: /uploads/mercedes-e400-420/IMG_5071.JPG
+  - image_path: /uploads/mercedes-e400-420/IMG_5072.JPG
+  - image_path: /uploads/mercedes-e400-420/IMG_5073.JPG
+  - image_path: /uploads/mercedes-e400-420/IMG_5075.JPG
+  - image_path: /uploads/mercedes-e400-420/IMG_5076.JPG
+  - image_path: /uploads/mercedes-e400-420/IMG_5078.JPG
 ---
 
 ## Beskrivelse
