@@ -11,6 +11,20 @@ host: 0.0.0.0
 sass:
     sass_dir: assets/scss
 
+_options:
+  image_path:
+    width: 1600
+    height: 1200
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+    expandable: true
+  content:
+    width: 1600
+    height: 1200
+    resize_style: "cover"
+    mime_type: "image/png"
+
+
 defaults:
   - scope:
       path: ""
@@ -18,13 +32,14 @@ defaults:
     values:
       layout: view-car
 
-_options:
-  image_path:
-    width: 1280
-    height: 548
-    resize_style: "contain"
-    mime_type: "image/jpeg"
-    expandable: true
+# _options:
+#   image_path:
+#     width: 1280
+#     height: 548
+#     resize_style: "contain"
+#     mime_type: "image/jpeg"
+#     expandable: true
+
 
 collections:
   cars:
