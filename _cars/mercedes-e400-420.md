@@ -7,9 +7,8 @@ registration: 6. marts 1994
 model_year: 1994
 thumbnail_image_path: /uploads/mercedes-e400-420/thumbnail.jpeg
 gallery:
-  - image_path: /uploads/mercedes-e400-420/IMG_4260.jpeg
-  - image_path: /uploads/mercedes-e400-420/IMG_5057.JPG
   - image_path: /uploads/mercedes-e400-420/IMG_5055.JPG
+  - image_path: /uploads/mercedes-e400-420/IMG_5057.JPG
   - image_path: /uploads/mercedes-e400-420/IMG_5056.JPG
   - image_path: /uploads/mercedes-e400-420/IMG_5058.JPG
   - image_path: /uploads/mercedes-e400-420/IMG_5059.JPG
