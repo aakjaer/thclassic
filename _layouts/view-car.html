@@ -26,7 +26,7 @@ active_menu: cars
             </div>
             <div class="col-lg-8">
                 <!-- Image carousel -->
-                <div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
+                <div id="carousel" class="carousel slide" data-ride="carousel">
                     <ol class="carousel-indicators">
                         {% for image in page.gallery %}
                             <li data-target="#carousel" data-slide-to="{{ forloop.index0 }}" {% if forloop.first %}class="active"{% endif %}></li>

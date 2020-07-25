@@ -296,6 +296,22 @@ img.pull-right {
     bottom: auto;
 }
 
+.carousel-control-next {
+    justify-content: right;
+}
+.carousel-control-prev {
+    justify-content: left;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    width: 36px;
+    height: 48px;
+    background-color: var(--darker);
+    background-size: 16px auto;
+}
+
+
 //////////////////////////////////////////////
 
 // Utility
@@ -372,5 +388,26 @@ img.pull-right {
     td, 
     th {
         border-top: 1px solid #eaf2fe;
+    }
+}
+
+.car-list .card {
+    transition: all 0.2s ease-out;
+
+    .card-title {
+        font-size: 1.5rem;
+    }
+
+    &:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 6px 30px -2px rgba(50,50,93,0.05),0 3px 15px -3px rgba(0,0,0,0.15);
+    }
+}
+
+.card-title > a {
+    color: var(--darker);
+
+    &:hover {
+        text-decoration: none;
     }
 }
