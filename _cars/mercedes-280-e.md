@@ -5,7 +5,7 @@ km: '43.000'
 price: '169.900'
 registration: 5. maj 1993
 model_year: '1993'
-thumbnail_image_path: /uploads/mercedes-280-e/thumbnail.jpg
+thumbnail_image_path: /uploads/mercedes-e280/thumbnail.jpg
 gallery:
   - image_path: /uploads/MB-E280-W124 1993-0FE280D8-B11C-465B-83A9-902CFA072616.jpeg
   - image_path: /uploads/MB-E280-W1241993-2CEE6305-A944-46BF-83AD-C78E52AED0BB.jpeg
