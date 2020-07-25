@@ -56,13 +56,25 @@ footer {
 //////////////////////////////////////////////
 
 .navbar {
-    padding-left: 2rem;
-    padding-right: 2rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
     padding-bottom: 0;
+
+    @media (min-width: 576px) {
+        padding-left: 2.5rem;
+        padding-right: 2.5rem;
+    }
     
     @media (min-width: 768px) {
         height: 6.5rem;
         padding: 2rem 4rem;
+    }
+
+    .container {
+        width: 100%;
+        max-width: none;
+        padding-left: 0;
+        padding-right: 0;
     }
 
     .navbar-brand {
@@ -83,7 +95,7 @@ footer {
 
     .navbar-nav {
         @media (max-width: 767px) {            
-            padding-top: 1.5rem;
+            // padding-top: 1.5rem;
         }
 
         .nav-link {
@@ -99,6 +111,7 @@ footer {
     }    
 
     .navbar-toggler {
+        padding-left: 0;
         border-color: transparent;
     }
 
@@ -254,15 +267,6 @@ img.pull-right {
     cursor: pointer;
 }
 
-.car-list {
-    width: 100%;
-
-    .thumbnail  {
-        min-width: 100px;
-        max-width: 125px;
-    }
-}
-
 .car-title {
 }
 
@@ -308,6 +312,7 @@ img.pull-right {
     width: 36px;
     height: 48px;
     background-color: var(--darker);
+    background-size: 16px auto;
     background-size: 16px auto;
 }
 
