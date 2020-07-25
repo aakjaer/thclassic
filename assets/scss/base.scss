@@ -301,10 +301,10 @@ img.pull-right {
 }
 
 .carousel-control-next {
-    justify-content: right;
+    justify-content: flex-end;
 }
 .carousel-control-prev {
-    justify-content: left;
+    justify-content: flex-start;
 }
 
 .carousel-control-prev-icon,
