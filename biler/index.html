@@ -6,34 +6,35 @@ active_menu: cars
 <section class="section section-compact">
     <div class="section-content">
         <h1 class="display-4 mb-5">Biler</h1>
-
-        <div class="table-responsive-md">
-            <table class="car-list table table-hover">
-                <thead>
-                    <th>Billede</th>
-                    <th>Mærke og model</th>
-                    <th class="text-right">Kilometer</th>
-                    <th class="text-right">Modelår</th>
-                    <th class="text-right">Pris</th>
-                </thead>
-                
-                <tbody>
-                    {% for car in site.cars %}
-                        <tr class="row-clickable" data-href="{{ site.baseurl }}{{ car.url }}">
-                            <td class="thumbnail">
-                                <img class="rounded img-fluid" src="{{ car.thumbnail_image_path }}" alt="" />
-                            </td>
-                            <td>
-                                <div>{{ car.title }}</div>
-                                <span class="text-muted">{{ car.model_details }}</span>
-                            </td>
-                            <td class="text-right">{{ car.km }} km</td>
-                            <td class="text-right">{{ car.model_year }}</td>
-                            <td class="text-right">{{ car.price }} kr.</td>
-                        </tr>
-                    {% endfor %}
-                </tbody>
-            </table>
+        
+        <div class="car-list row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-xl-4">
+            {% for car in site.cars %}
+                <div class="col mb-4">
+                    <div class="card h-100">
+                        <img src="{{ car.thumbnail_image_path }}" class="card-img-top" alt="" />
+                        <div class="card-body">
+                            <h5 class="card-title"><a href="{{ site.baseurl }}{{ car.url }}" class="stretched-link">{{ car.title }}</a></h5>
+                            <h6 class="card-subtitle text-muted">{{ car.model_details }}</h6>
+                            <p class="card-text">
+                                <ul class="list-unstyled">
+                                    <li class="d-flex justify-content-between">
+                                        <span>Kilometerstand</span> 
+                                        <span>{{ car.km }} km</span>
+                                    </li>
+                                    <li class="d-flex justify-content-between">
+                                        <span>1. reg.dato</span> 
+                                        <span>{{ car.model_year }}</span>
+                                    </li>
+                                    <li class="mt-4 mb-0 font-weight-bold d-flex justify-content-between h5">
+                                        <span>Pris</span> 
+                                        <span>{{ car.price }} kr.</span>
+                                    </li>
+                                </ul>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
         </div>
     </div>
 </section>

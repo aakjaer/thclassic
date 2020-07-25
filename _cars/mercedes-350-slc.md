@@ -7,38 +7,25 @@ registration: 21 april 1978
 model_year: '1978'
 thumbnail_image_path: /uploads/mercedes-350-slc/thumbnail.jpeg
 gallery:
-  - image_path: /uploads/mercedes-350-slc/IMG_3182.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3183.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3184.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3187.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3188.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3189.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3190.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3191.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3192.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3193.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3194.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3195.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3196.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3197.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3198.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3199.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3200.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3201.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3202.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3203.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3204.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3206.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3207.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3208.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3679.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3680.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3681.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3682.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3684.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3685.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3686.jpeg
-  - image_path: /uploads/mercedes-350-slc/IMG_3687.jpeg
+  - image_path: /uploads/mercedes-350-slc/MB107-350SLC1978-1E33AF97-2072-4BC7-A76B-17B54D222326.jpeg
+  - image_path: /uploads/mercedes-350-slc/MB107-350SLC1978-2B4C4DD2-6FAA-4F6E-A5CE-2EC94D7A7985.jpeg
+  - image_path: /uploads/mercedes-350-slc/MB107-350SLC1978-2DFB9661-A403-45C9-B921-1BAD5D5C127A.jpeg
+  - image_path: /uploads/mercedes-350-slc/MB107-350SLC1978-2F51663F-4CDE-45F0-913B-B69A562AEAB3.jpeg
+  - image_path: /uploads/mercedes-350-slc/MB107-350SLC1978-4BB50F30-8708-4D29-BF5E-51BEA6125D2F.jpeg
+  - image_path: /uploads/mercedes-350-slc/MB107-350SLC1978-6A7BDD6D-09A6-454E-AB8D-D4FE03498074.jpeg
+  - image_path: /uploads/mercedes-350-slc/MB107-350SLC1978-29ABFD13-17DF-4E8C-84DB-5E43795BE270.jpeg
+  - image_path: /uploads/mercedes-350-slc/MB107-350SLC1978-38ADCD8D-CEF9-4C2C-BEE2-CC4401814620.jpeg
+  - image_path: /uploads/mercedes-350-slc/MB107-350SLC1978-63C9880F-4A73-4F29-AB97-700692B2B283.jpeg
+  - image_path: /uploads/mercedes-350-slc/MB107-350SLC1978-6375C116-46D7-428A-8275-C56E23910F3B.jpeg
+  - image_path: /uploads/mercedes-350-slc/MB107-350SLC1978-40677D02-DA87-4B11-BC74-E0CF2C413F70.jpeg
+  - image_path: /uploads/mercedes-350-slc/MB107-350SLC1978-83563F21-5904-4836-A85B-8EE64E7DC13B.jpeg
+  - image_path: /uploads/mercedes-350-slc/MB107-350SLC1978-23008634-D5B9-46A7-87D4-285CCE11AB72.jpeg
+  - image_path: /uploads/mercedes-350-slc/MB107-350SLC1978-BF49B638-62CA-4662-B05F-B52D43C8EFBD.jpeg
+  - image_path: /uploads/mercedes-350-slc/MB107-350SLC1978-C5A39D2C-F645-419F-9013-4FFD68A816B7.jpeg
+  - image_path: /uploads/mercedes-350-slc/MB107-350SLC1978-C63A7020-DAEE-491A-9AD5-8F58421600EF.jpeg
+  - image_path: /uploads/mercedes-350-slc/MB107-350SLC1978-D258DDC5-8A98-4931-9020-8734F88E4A46.jpeg
+  - image_path: /uploads/mercedes-350-slc/MB107-350SLC1978-D737C277-5002-49C0-A92C-8E68D3B87DD2.jpeg
+  - image_path: /uploads/mercedes-350-slc/MB107-350SLC1978-DA0452BA-5687-4656-9E80-44B7CE55A11B.jpeg
 ---
 
 ## Beskrivelse
