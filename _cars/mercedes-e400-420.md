@@ -7,28 +7,27 @@ registration: 6. marts 1994
 model_year: 1994
 thumbnail_image_path: /uploads/mercedes-e400-420/thumbnail.jpeg
 gallery:
-  - image_path: /uploads/mercedes-e400-420/IMG_4260.jpeg
-  - image_path: /uploads/mercedes-e400-420/IMG_5055.JPG
-  - image_path: /uploads/mercedes-e400-420/IMG_5057.JPG
-  - image_path: /uploads/mercedes-e400-420/IMG_5056.JPG
-  - image_path: /uploads/mercedes-e400-420/IMG_5058.JPG
-  - image_path: /uploads/mercedes-e400-420/IMG_5059.JPG
-  - image_path: /uploads/mercedes-e400-420/IMG_5060.JPG
-  - image_path: /uploads/mercedes-e400-420/IMG_5061.JPG
-  - image_path: /uploads/mercedes-e400-420/IMG_5063.JPG
-  - image_path: /uploads/mercedes-e400-420/IMG_5064.JPG
-  - image_path: /uploads/mercedes-e400-420/IMG_5065.JPG
-  - image_path: /uploads/mercedes-e400-420/IMG_5066.JPG
-  - image_path: /uploads/mercedes-e400-420/IMG_5067.JPG
-  - image_path: /uploads/mercedes-e400-420/IMG_5068.JPG
-  - image_path: /uploads/mercedes-e400-420/IMG_5069.JPG
-  - image_path: /uploads/mercedes-e400-420/IMG_5070.JPG
-  - image_path: /uploads/mercedes-e400-420/IMG_5071.JPG
-  - image_path: /uploads/mercedes-e400-420/IMG_5072.JPG
-  - image_path: /uploads/mercedes-e400-420/IMG_5073.JPG
-  - image_path: /uploads/mercedes-e400-420/IMG_5075.JPG
-  - image_path: /uploads/mercedes-e400-420/IMG_5076.JPG
-  - image_path: /uploads/mercedes-e400-420/IMG_5078.JPG
+- image_path: /uploads/MBW124-E400-1F931751-8F9A-43B7-8E6C-F9C2F3CC93F5.jpeg
+- image_path: /uploads/MBW124-E400-4B55941F-A706-405D-9B78-2805271FD88F.jpeg
+- image_path: /uploads/MBW124-E400-58DE21E1-DB79-46CB-81BE-6306C6889F2E.jpeg
+- image_path: /uploads/MBW124-E400-89AFC13E-483B-4BA3-9849-C3CFA814339D.jpeg
+- image_path: /uploads/MBW124-E400-92CF88C4-DBFE-48D1-89EB-1BABB8F7F133.jpeg
+- image_path: /uploads/MBW124-E400-404CCCBB-53E3-45D4-A2FE-A708DFD8FE37.jpeg
+- image_path: /uploads/MBW124-E400-558CE9C7-9FCF-4DFA-B7A2-2906825FE237.jpeg
+- image_path: /uploads/MBW124-E400-559F6861-18B8-4D0F-B21B-E4FCDDAA3C4B.jpeg
+- image_path: /uploads/MBW124-E400-20063D1B-C6A5-45F1-99EB-058690E3B1C6.jpeg
+- image_path: /uploads/MBW124-E400-4919473F-3FC0-4463-9707-29B9BC55F678.jpeg
+- image_path: /uploads/MBW124-E400-A0FAB837-0218-4BA2-8769-E659BA0627A0.jpeg
+- image_path: /uploads/MBW124-E400-B1598BAF-5B17-454C-933F-E56024BEB917.jpeg
+- image_path: /uploads/MBW124-E400-C5DA2B62-8163-486A-83C5-D64046DCD4D4.jpeg
+- image_path: /uploads/MBW124-E400-CE9A7266-9AFF-4D1E-A238-113162E7B9AE.jpeg
+- image_path: /uploads/MBW124-E400-D990BFE4-D3F9-4808-AF94-3BBD1F5D7A79.jpeg
+- image_path: /uploads/MBW124-E400-DB689228-B0C7-401E-88CF-5EA532D0A3FE.jpeg
+- image_path: /uploads/MBW124-E400-EC09C68D-068C-4A8A-A70F-209070533937.jpeg
+- image_path: /uploads/MBW124-E400-EF62B395-F90D-4798-84E2-E3ED8639C042.jpeg
+- image_path: /uploads/MBW124-E400-F012498F-71AA-4AF9-9442-7DAD5CEFAA08.jpeg
+- image_path: /uploads/MBW124-E400-FE64E7D5-4840-4AD8-94D0-9F63E961A537.jpeg
+- image_path: /uploads/MBW124-E400-FF5841CF-499B-4B03-9673-9C9A12A3EA01.jpeg
 ---
 
 ## Beskrivelse
