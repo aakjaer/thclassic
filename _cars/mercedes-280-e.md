@@ -2,7 +2,7 @@
 title: Mercedes Benz 280E
 model_details: Type W 124
 km: '43.000'
-price: '169.900'
+price: '155.000'
 registration: 5. maj 1993
 model_year: '1993'
 thumbnail_image_path: /uploads/mercedes-e280/thumbnail.jpg
