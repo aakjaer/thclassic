@@ -2,7 +2,7 @@
 title: Mercedes Benz 280SE
 model_details: Type W 126
 km: '226.000'
-price: '149.900'
+price: '135.000'
 registration: 6. juli 1984
 model_year: '1984'
 thumbnail_image_path: /uploads/mercedes-280-se/thumbnail.jpeg
