@@ -2,7 +2,7 @@
 title: Mercedes 350 SLC
 model_details: Type C 107
 km: '143.000'
-price: '199.900'
+price: '185.000'
 registration: 21 april 1978
 model_year: '1978'
 thumbnail_image_path: /uploads/mercedes-350-slc/thumbnail.jpeg
