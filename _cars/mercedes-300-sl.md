@@ -2,7 +2,7 @@
 title: Mercedes 300 SL
 model_details: Type W 129
 km: '307.000'
-price: '179.900'
+price: '159.900'
 registration: 28. juni 1990
 model_year: '1990'
 thumbnail_image_path: /uploads/mercedes-300-sl/thumbnail.jpeg
