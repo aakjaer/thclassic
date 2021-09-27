@@ -2,7 +2,7 @@
 title: Jaguar XKR
 model_details: Convertible
 km: '209.000'
-price: '294.900'
+price: '159.900'
 registration: 1. maj 2000
 model_year: '2000'
 thumbnail_image_path: /uploads/jaguar-xkr/thumbnail.jpeg
@@ -58,4 +58,4 @@ Udstyrslisten er lang, men vi kan fremh&aelig;ve f&oslash;lgende:
 
 P&aring; grund af modellens sk&oslash;nhed og potens, stiger disse biler i &oslash;jeblikket i v&aelig;rdi. Denne bil er p.t. uden dansk registreringsafgift. Den kan s&aring;ledes ogs&aring; k&oslash;bes som investeringsbil, uden at betale dansk afgift.
 
-Prisen uden afgift er kr. 159.900,- .
+Prisen uden afgift er kr. 159.900,-&nbsp; og med dansk registeringsafgift bilver den samlede pris med nr. plader ca. kr. 300.000,- .

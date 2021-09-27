@@ -2,7 +2,7 @@
 title: Mercedes Benz 500 SEC
 model_details: Type W 126C
 km: '174.000'
-price: '215.000'
+price: '219.000'
 registration: 15. maj 1987
 model_year: 1987
 thumbnail_image_path: /uploads/mercedes-500-sec/thumbnail.jpeg
@@ -80,4 +80,6 @@ Og en lang r&aelig;kke andre ting.
 
 Bilen har i alt k&oslash;rt 174.000 km fra ny, og vi har netop givet den et stort service med olie og oliefilter, luftfilter, konvertering af k&oslash;lemiddel p&aring; aircondition, ny k&oslash;lerv&aelig;ske m.v. Den har ogs&aring; f&aring;et en dobbelt Dinitrol undervognsbehandling. Bilen er s&aring;ledes klar til at give sin nye ejer k&oslash;regl&aelig;de straks, og i mange &aring;r fremover. &nbsp;
 
-Bilen kan allerede nu synes som veteranbil, og i maj 2022 bliver den 35 &aring;r og dermed vil v&aelig;gtafgiften kun v&aelig;re 25% af den nuv&aelig;rende.&nbsp;
+Bilen er den 29.5.21 synet som veteranbil, og skal derfor f&oslash;rst til syn n&aelig;ste gang i juni 2029.
+
+I maj 2022 bliver den 35 &aring;r og dermed vil v&aelig;gtafgiften kun v&aelig;re 25% af den nuv&aelig;rende. Forsikring som veteran er allerede billig.
